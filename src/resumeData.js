@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Sean O'Hare",
     "role": "",
     "linkedinId": "sean-ohare",
-    "roleDescription": "(American) CS student at The Chinese University of Hong Kong. Passionate about solving problems with software, jumping into sand, and all things cinema! Expecting to graduate in the spring of 2021.",
+    "roleDescription": "CS student at The Chinese University of Hong Kong (transferred from Michigan State), graduating Spring 2021. Passionate about optimizing software solutions, jumping into sand, and all things film! More about me down below :)",
     "socialLinks": [
         {
             "name": "linkedin",
@@ -16,8 +16,8 @@ let resumeData = {
             "className": "fa fa-github"
         }
     ],
-    "aboutme": "I am currently a penultimate year student pursuing my B.S. in Computer Science at The Chinese University of Hong Kong. Currently seeking Summer 2020 internship opportunities.",
-    "address": "Hong Kong",
+    "aboutme": "US Citizen, born in Tokyo. I've spent half my life in Michigan, and the other half in Shanghai. Transferred to Hong Kong for family/finances/sports, but currently interviewing for Summer 2020 internships in the US. Always trying to write cleaner, more efficient code. Although I do most of my coding at work as a part-time SWE Intern, I can promise significant contributions to my personal projects in 2020 (I acknowledge how hacked together they are)! I'm also an avid track and field fan/competitor, with a long jump PR of 6.82m/22ft5inches. I've competed in NCAA D1 meets with MSU Track and Field and also meets here in HK with CUHK Track and Field.",
+    "address": "Hong Kong/Michigan",
     "website": "seanohare@link.cuhk.edu.hk",
     "education": [
         {
@@ -31,7 +31,7 @@ let resumeData = {
             "UniversityName": "Michigan State University",
             "specialization": "Bachelor of Science in Computer Science",
             "YearOfPassing": "Transferred",
-            "Achievements": "Track and Field Student-Athlete, Charles Drew Science Scholar, Design for America: MSU"
+            "Achievements": "Charles Drew Science Scholar, Design for America: MSU, Track and Field Student-Athlete"
         }
     ],
     "work": [
@@ -40,8 +40,8 @@ let resumeData = {
             "specialization": "Software Engineering Intern",
             "YearOfLeaving": "May 2019 - Present",
             "Achievements1": "- Manage the company's primary stock data API and associated codebase/OpenAPI documentation",
-            "Achievements2": "- Reduced several endpoint response times by up to 3x through implementation of Redis caching and improved SQL queries/server-side logic",
-            "Achievements3": "- Implemented a CI/CD pipeline for 40% of company GitLab repos using a docker-in-docker approach, with automated testing, staging, and deployment to Kubernetes",
+            "Achievements2": "- Reduced several endpoint-response times by up to 3x through implementation of Redis caching and improved SQL queries/server-side logic",
+            "Achievements3": "- Implemented a CI/CD pipeline for 4 company GitLab repos using a docker-in-docker approach, with automated testing (Jest, SuperTest), staging, and deployment to Kubernetes",
             "Achievements4": "- Built React components for displaying data-tables and graphs for use by clients and internal BAs",
 
         },
@@ -64,50 +64,45 @@ let resumeData = {
             "Achievements4": "- Gathered information for news stories and organized events",
         }
         ],
-    "skills":[
-        {
-            "skillname":"HTML5"
-        },
-        {
-            "skillname":"CSS"
-        },
-        {
-            "skillname":"Reactjs"
-        }
-    ],
     "portfolio": [
         {
             "name": "HK Track and Field",
             "description":
-                "Web app to rank and search for Hong Kong track and field athletes/performances. Built using React.js, Node.js, and PostgreSQL. Deployed on DigitalOcean. Separate repos for the backend API and frontend SPA on my GitHub.",
+                "Web app to rank Hong Kong track and field athletes/performances. Built using React.js, Node.js, and PostgreSQL. Deployed on DigitalOcean. Separate repos for the backend API and frontend SPA on my GitHub.",
             "url": "http://www.hktrackandfield.org",
             "imgurl": "images/portfolio/hktf.png"
         },
         {
             "name": "HK Track and Field PDF Scraper",
-            "description": "PDF Scraper to obtain data from track and field meet results. Version 2 (coming soon) will identify table borders and be able to scrape ALL table data.",
+            "description": "Python PDF scraper with precise table border identification. Used PyPDF and Camelot libraries.",
             "url": "https://github.com/seanohare98/hktf-scraper",
             "imgurl": "images/portfolio/hktf-scraper.jpg"
         },
         {
+            "name": "Multithreaded FTP Server",
+            "description": "Simple and lightweight multithreaded FTP server/client. Used pthread library with sockets.",
+            "url": "https://github.com/seanohare98/multithreaded-ftp-server",
+            "imgurl": "images/portfolio/ftp.png"
+        },
+        {
             "name": "AVL Tree",
-            "description": "AVL data structure using C++. Recursive balancing methods allow for predecessor query and insertion functionality.",
+            "description": "AVL data structure with recursive insertion/predecessor algorithms for tree traversal practice.",
             "url": "https://github.com/seanohare98/avl-tree",
             "imgurl": "images/portfolio/avl.png"
         },
         {
             "name": "Bash Shell",
-            "description": "Simple bash shell using C. Has a directory stack allowing for pushd, popd, and dirs methods. Other commands executed by forking child processes.",
+            "description": "Fully functional bash shell w/ command chaining. Includes a directory stack and ability to fork child processes.",
             "url": "https://github.com/seanohare98/simple-shell",
             "imgurl": "images/portfolio/shell.png"
         },    {
-            "name": "Hospital API",
-            "description": "RESTful API simulating a hospital system's backend functionality. Used Node.js and MongoDB with Mongoose ORM. A practice project before I embarked on HK Track and Field.",
-            "url": "https://github.com/seanohare98/hospital-api/wiki",
+            "name": "Hospital Appointment API",
+            "description": "REST API simulating a hospital system's backend functionality. Used Node.js and MongoDB with Mongoose ORM.",
+            "url": "https://github.com/seanohare98/hospital-api",
             "imgurl": "images/portfolio/hospital.jpg"
         },    {
             "name": "MSU Migration Website",
-            "description": "Website made for MSU Information Technology to assist with the oversight of a campus-wide migration project. Built using Node.js with EJS. Deployed on Heroku.",
+            "description": "Dashboard for MSU IT's Summer 2018 system/mail migration project",
             "url": "http://www.msumigration.info",
             "imgurl": "images/portfolio/msu.jpg"
         },

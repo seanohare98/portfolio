@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6e352d-54f7-480e-bd62-9d84e8b82f3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/header-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/header-background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/profilepic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/profilepic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resumeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resumeData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578386362154</updated>
-      <workItem from="1578386370141" duration="10582000" />
+      <workItem from="1578386370141" duration="10774000" />
+      <workItem from="1578483064108" duration="165000" />
+      <workItem from="1578483556466" duration="30000" />
+      <workItem from="1578484102458" duration="267000" />
+      <workItem from="1578495618947" duration="25000" />
+      <workItem from="1578585638536" duration="36000" />
+      <workItem from="1578628309996" duration="28000" />
+      <workItem from="1578738369648" duration="17000" />
+      <workItem from="1578902820964" duration="752000" />
+      <workItem from="1578937046394" duration="87000" />
+      <workItem from="1579092421585" duration="65000" />
+      <workItem from="1579269189718" duration="49000" />
+      <workItem from="1579273604897" duration="25000" />
+      <workItem from="1579274254332" duration="1528000" />
+      <workItem from="1579276774378" duration="7000" />
+      <workItem from="1579277020725" duration="17000" />
+      <workItem from="1579278222346" duration="42000" />
+      <workItem from="1579278383745" duration="73000" />
+      <workItem from="1579279711161" duration="210000" />
+      <workItem from="1579286904358" duration="263000" />
+      <workItem from="1582822565453" duration="468000" />
     </task>
     <servers />
   </component>
