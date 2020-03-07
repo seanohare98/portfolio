@@ -16,7 +16,7 @@ let resumeData = {
             "className": "fa fa-github"
         }
     ],
-    "aboutme": "US Citizen, born in Tokyo. I've spent half my life in Michigan, and the other half in Shanghai. Transferred to Hong Kong for family/finances/sports, but currently interviewing for Summer 2020 internships in the US. Always trying to write cleaner, more efficient code. Although I do most of my coding at work as a part-time SWE Intern, I can promise significant contributions to my personal projects in 2020 (I acknowledge how hacked together they are)! I'm also an avid track and field fan/competitor, with a long jump PR of 6.82m/22ft5inches. I've competed in NCAA D1 meets with MSU Track and Field and also meets here in HK with CUHK Track and Field.",
+    "aboutme": "US Citizen, born in Tokyo. I've spent half my life in Michigan, and the other half in Shanghai. Transferred to Hong Kong for family/finances/sports, but currently interviewing for 2020 internships in the US. Always trying to write cleaner, more efficient code. Although I do most of my coding at work as a part-time SWE Intern, I can promise significant contributions to my personal projects in 2020! I'm also an avid track and field fan/competitor, with a long jump PR of 6.82m/22ft5inches. I've competed in NCAA D1 meets with MSU Track and Field and also meets here in HK with CUHK Track and Field.",
     "address": "Hong Kong/Michigan",
     "website": "seanohare@link.cuhk.edu.hk",
     "education": [
@@ -75,7 +75,7 @@ let resumeData = {
         {
             "name": "PDF Table Scraper",
             "description": "A script to retrieve data from Hong Kong Athletic Association meet result PDFs",
-            "url": "https://github.com/seanohare98/hktf-scraper",
+            "url": "https://github.com/seanohare98/pdf-scraper",
             "imgurl": "images/portfolio/hktf-scraper.jpg"
         },
         {
@@ -93,7 +93,7 @@ let resumeData = {
         {
             "name": "Unix Shell",
             "description": "Wrote a fully functional Unix shell capable of command chaining",
-            "url": "https://github.com/seanohare98/simple-shell",
+            "url": "https://github.com/seanohare98/unix-shell",
             "imgurl": "images/portfolio/shell.png"
         },    {
             "name": "Hospital Appointment API",
