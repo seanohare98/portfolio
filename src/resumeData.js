@@ -68,41 +68,41 @@ let resumeData = {
         {
             "name": "HK Track and Field",
             "description":
-                "Web app to rank Hong Kong track and field athletes/performances. Built using React.js, Node.js, and PostgreSQL. Deployed on DigitalOcean. Separate repos for the backend API and frontend SPA on my GitHub.",
+                "A Full-Stack web application to aggregate and rank Hong Kong Track and Field results, providing athletes (like myself) with an interactive tool to visualize the progression of past/present competition seasons",
             "url": "http://www.hktrackandfield.org",
             "imgurl": "images/portfolio/hktf.png"
         },
         {
             "name": "HK Track and Field PDF Scraper",
-            "description": "Python PDF scraper with precise table border identification. Used PyPDF and Camelot libraries.",
+            "description": "A script to retrieve data from Hong Kong Athletic Association meet result PDFs",
             "url": "https://github.com/seanohare98/hktf-scraper",
             "imgurl": "images/portfolio/hktf-scraper.jpg"
         },
         {
             "name": "Multithreaded FTP Server",
-            "description": "Simple and lightweight multithreaded FTP server/client. Used pthread library with sockets.",
+            "description": "A multi-client/multi-server FTP program, employing erasure coding and multithreading for concurrent connections",
             "url": "https://github.com/seanohare98/multithreaded-ftp-server",
             "imgurl": "images/portfolio/ftp.png"
         },
         {
             "name": "AVL Tree",
-            "description": "AVL data structure with recursive insertion/predecessor algorithms for tree traversal practice.",
+            "description": "Implemented a self-balancing AVL data structure for tree traversal practice",
             "url": "https://github.com/seanohare98/avl-tree",
             "imgurl": "images/portfolio/avl.png"
         },
         {
             "name": "Bash Shell",
-            "description": "Fully functional bash shell w/ command chaining. Includes a directory stack and ability to fork child processes.",
+            "description": "Wrote a fully functional Unix shell capable of command chaining",
             "url": "https://github.com/seanohare98/simple-shell",
             "imgurl": "images/portfolio/shell.png"
         },    {
             "name": "Hospital Appointment API",
-            "description": "REST API simulating a hospital system's backend functionality. Used Node.js and MongoDB with Mongoose ORM.",
+            "description": "An Express.js API to simulate a hospital’s appointment system.Gained exposure to NoSQL and Mongoose ORM",
             "url": "https://github.com/seanohare98/hospital-api",
             "imgurl": "images/portfolio/hospital.jpg"
         },    {
             "name": "MSU Migration Website",
-            "description": "Dashboard for MSU IT's Summer 2018 system/mail migration project",
+            "description": "A dashboard for IT support resources",
             "url": "http://www.msumigration.info",
             "imgurl": "images/portfolio/msu.jpg"
         },
