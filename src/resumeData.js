@@ -66,14 +66,14 @@ let resumeData = {
         ],
     "portfolio": [
         {
-            "name": "HK Track and Field",
+            "name": "Track and Field Results Reporting System",
             "description":
                 "A Full-Stack web application to aggregate and rank Hong Kong Track and Field results, providing athletes (like myself) with an interactive tool to visualize the progression of past/present competition seasons",
             "url": "http://www.hktrackandfield.org",
             "imgurl": "images/portfolio/hktf.png"
         },
         {
-            "name": "HK Track and Field PDF Scraper",
+            "name": "PDF Table Scraper",
             "description": "A script to retrieve data from Hong Kong Athletic Association meet result PDFs",
             "url": "https://github.com/seanohare98/hktf-scraper",
             "imgurl": "images/portfolio/hktf-scraper.jpg"
@@ -91,7 +91,7 @@ let resumeData = {
             "imgurl": "images/portfolio/avl.png"
         },
         {
-            "name": "Bash Shell",
+            "name": "Unix Shell",
             "description": "Wrote a fully functional Unix shell capable of command chaining",
             "url": "https://github.com/seanohare98/simple-shell",
             "imgurl": "images/portfolio/shell.png"
@@ -101,7 +101,7 @@ let resumeData = {
             "url": "https://github.com/seanohare98/hospital-api",
             "imgurl": "images/portfolio/hospital.jpg"
         },    {
-            "name": "MSU Migration Website",
+            "name": "MSU IT Dashboard",
             "description": "A dashboard for IT support resources",
             "url": "http://www.msumigration.info",
             "imgurl": "images/portfolio/msu.jpg"
