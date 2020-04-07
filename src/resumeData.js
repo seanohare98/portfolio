@@ -1,9 +1,9 @@
 let resumeData = {
     "imagebaseurl": "https://seanohare98.github.io/",
     "name": "Sean O'Hare",
-    "role": "",
+    "role": "", //US Citizen born in Tokyo. Having grown up 1/2 in Michigan and 1/2 in Shanghai, China has strongly shaped the way I operate on professional and personal levels. Transferred to CUHK from Michigan State for non-academic reasons, but currently interviewing for 2020 internships in the US. Always trying to write cleaner and more optimized code. Although I spend most of my on-screen time in the office as a part-time SWE Intern, I can promise significant contributions to some exciting passions projects throughout this year! Also an avid track and field fan/competitor, with a long jump PR of 6.82m or 22ft5inches. I've competed in NCAA DI meets with MSU Track and Field and meets in Hong Kong with CUHK Track and Field.
     "linkedinId": "sean-ohare",
-    "roleDescription": "CS student at The Chinese University of Hong Kong (transferred from Michigan State), graduating Spring 2021. Passionate about optimizing software solutions, jumping into sand, and all things film! More about me down below :)",
+    "roleDescription": "Computer Science student @ The Chinese University of Hong Kong. Graduating from the University of Michigan or University of Toronto (already admitted to both) by Summer 2021.",
     "socialLinks": [
         {
             "name": "linkedin",
@@ -14,9 +14,14 @@ let resumeData = {
             "name": "github",
             "url": "http://github.com/seanohare98",
             "className": "fa fa-github"
+        },
+        {
+            "name": "resume",
+            "url" : "https://drive.google.com/file/d/1Gdlcbaa59zU4_k7u9g4GPVKQKvHMQrLc/view",
+            "className" : "fa fa-file"
         }
     ],
-    "aboutme": "US Citizen, born in Tokyo. I've spent half my life in Michigan, and the other half in Shanghai. Transferred to Hong Kong for family/finances/sports, but currently interviewing for 2020 internships in the US. Always trying to write cleaner, more efficient code. Although I do most of my coding at work as a part-time SWE Intern, I can promise significant contributions to my personal projects in 2020! I'm also an avid track and field fan/competitor, with a long jump PR of 6.82m/22ft5inches. I've competed in NCAA D1 meets with MSU Track and Field and also meets here in HK with CUHK Track and Field.",
+    "aboutme": "US Citizen born in Tokyo. Having grown up half in Michigan and half in Shanghai has very much shaped the way I operate on personal and professional levels. Transferred to Hong Kong from Michigan State for non-academic reasons, but currently interviewing for 2020 internships in the US. Always trying to write cleaner and more optimized code. Although I spend most of my on-screen time in the office as a part-time SWE Intern, I can promise significant contributions to some exciting passion projects in 2020! Also an avid track and field fan/competitor, with a long jump PR of 6.82 meters or 22.5 feet. I've competed in NCAA DI meets with MSU Track and Field and meets in Hong Kong with CUHK Track and Field.",
     "address": "Hong Kong/Michigan",
     "website": "seanohare@link.cuhk.edu.hk",
     "education": [
@@ -65,6 +70,13 @@ let resumeData = {
         }
         ],
     "portfolio": [
+        {
+            "name": "DormLink",
+            "description":
+                "A system for college dorms to match compatible roommates. Leverages the Neo4j graph database platform and traditional RDBMS for scalable k-Nearest-Neighbor graph construction.",
+            "url": "https://github.com/seanohare98/dormlink",
+            "imgurl": "images/portfolio/dormlink.png"
+        },
         {
             "name": "Track and Field Results Reporting System",
             "description":
