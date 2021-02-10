@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Sean O'Hare",
     "role": "", //US Citizen born in Tokyo. Having grown up 1/2 in Michigan and 1/2 in Shanghai, China has strongly shaped the way I operate on professional and personal levels. Transferred to CUHK from Michigan State for non-academic reasons, but currently interviewing for 2020 internships in the US. Always trying to write cleaner and more optimized code. Although I spend most of my on-screen time in the office as a part-time SWE Intern, I can promise significant contributions to some exciting passions projects throughout this year! Also an avid track and field fan/competitor, with a long jump PR of 6.82m or 22ft5inches. I've competed in NCAA DI meets with MSU Track and Field and meets in Hong Kong with CUHK Track and Field.
     "linkedinId": "sean-ohare",
-    "roleDescription": "Computer Science student @ The Chinese University of Hong Kong. Graduating from the University of Michigan or University of Toronto (already admitted to both) by Summer 2021.",
+    "roleDescription": "Computer Science student @ The Chinese University of Hong Kong, graduating May 2021.",
     "socialLinks": [
         {
             "name": "linkedin",
@@ -17,13 +17,13 @@ let resumeData = {
         },
         {
             "name": "resume",
-            "url" : "https://drive.google.com/file/d/1Gdlcbaa59zU4_k7u9g4GPVKQKvHMQrLc/view",
+            "url" : "https://drive.google.com/file/d/1Vcsf3a_iSpFv0WCZqLMdSRCcWBM8In7R/view?usp=sharing",
             "className" : "fa fa-file"
         }
     ],
-    "aboutme": "US Citizen born in Tokyo. Having grown up half in Michigan and half in Shanghai has very much shaped the way I operate on personal and professional levels. Transferred to Hong Kong from Michigan State for non-academic reasons, but currently interviewing for 2020 internships in the US. Always trying to write cleaner and more optimized code. Although I spend most of my on-screen time in the office as a part-time SWE Intern, I can promise significant contributions to some exciting passion projects in 2020! Also an avid track and field fan/competitor, with a long jump PR of 6.82 meters or 22.5 feet. I've competed in NCAA DI meets with MSU Track and Field and meets in Hong Kong with CUHK Track and Field.",
-    "address": "Hong Kong/Michigan",
-    "website": "seanohare@link.cuhk.edu.hk",
+    "aboutme": "Hi there", //"US Citizen born in Tokyo. Having grown up half in Michigan and half in Shanghai has very much shaped the way I operate on personal and professional levels. Transferred to Hong Kong from Michigan State for non-academic reasons. Also an avid track and field fan/competitor, with a long jump PR of 6.82 meters or 22.5 feet. I've competed in NCAA DI meets with MSU Track and Field and meets in Hong Kong with CUHK Track and Field.",
+    "address": "Based out of Hong Kong/Michigan",
+    "website": "seanohare98@gmail.com",
     "education": [
         {
             "UniversityName": "The Chinese University of Hong Kong",
@@ -73,51 +73,42 @@ let resumeData = {
         {
             "name": "DormLink",
             "description":
-                "A system for college dorms to match compatible roommates. Leverages the Neo4j graph database platform and traditional RDBMS for scalable k-Nearest-Neighbor graph construction.",
+                "Approximate-Nearest-Neighbor roommate matching and social networking app",
             "url": "https://github.com/seanohare98/dormlink",
             "imgurl": "images/portfolio/dormlink.png"
         },
         {
-            "name": "Track and Field Results Reporting System",
+            "name": "Track and Field Ranking System",
             "description":
-                "A Full-Stack web application to aggregate and rank Hong Kong Track and Field results, providing athletes (like myself) with an interactive tool to visualize the progression of past/present competition seasons",
+                "Application to aggregate and rank Hong Kong Track and Field results, providing athletes (like myself) with a tool to check on the progress of past/present competition seasons",
             "url": "http://www.hktrackandfield.org",
-            "imgurl": "images/portfolio/hktf.png"
+            "imgurl": "images/portfolio/hktf.jpg"
         },
         {
-            "name": "PDF Table Scraper",
-            "description": "A script to retrieve data from Hong Kong Athletic Association meet result PDFs",
-            "url": "https://github.com/seanohare98/pdf-scraper",
-            "imgurl": "images/portfolio/hktf-scraper.jpg"
+            "name": "AR Beer Pong",
+            "description":
+                "Socially distanced beer pong!",
+            "url": "https://github.com/seanohare98/ar-beer-pong",
+            "imgurl": "images/portfolio/bp.png"
         },
         {
-            "name": "Multithreaded FTP Server",
-            "description": "A multi-client/multi-server FTP program, employing erasure coding and multithreading for concurrent connections",
+            "name": "File Transfer Protocol",
+            "description": "An FTP client/server program written for my Data Communications and Networking course",
             "url": "https://github.com/seanohare98/multithreaded-ftp-server",
-            "imgurl": "images/portfolio/ftp.png"
+            "imgurl": "images/portfolio/ftp.jpg"
         },
         {
             "name": "AVL Tree",
-            "description": "Implemented a self-balancing AVL data structure for tree traversal practice",
+            "description": "AVL data structure implementation",
             "url": "https://github.com/seanohare98/avl-tree",
-            "imgurl": "images/portfolio/avl.png"
+            "imgurl": "images/portfolio/avl.jpg"
         },
         {
             "name": "Unix Shell",
-            "description": "Wrote a fully functional Unix shell capable of command chaining",
+            "description": "Simplistic Unix Shell",
             "url": "https://github.com/seanohare98/unix-shell",
             "imgurl": "images/portfolio/shell.png"
-        },    {
-            "name": "Hospital Appointment API",
-            "description": "An Express.js API to simulate a hospital’s appointment system.Gained exposure to NoSQL and Mongoose ORM",
-            "url": "https://github.com/seanohare98/hospital-api",
-            "imgurl": "images/portfolio/hospital.jpg"
-        },    {
-            "name": "MSU IT Dashboard",
-            "description": "A dashboard for IT support resources",
-            "url": "http://www.msumigration.info",
-            "imgurl": "images/portfolio/msu.jpg"
-        },
+        }
 
     ]
 }
