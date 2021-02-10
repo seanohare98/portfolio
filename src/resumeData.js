@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Sean O'Hare",
     "role": "", //US Citizen born in Tokyo. Having grown up 1/2 in Michigan and 1/2 in Shanghai, China has strongly shaped the way I operate on professional and personal levels. Transferred to CUHK from Michigan State for non-academic reasons, but currently interviewing for 2020 internships in the US. Always trying to write cleaner and more optimized code. Although I spend most of my on-screen time in the office as a part-time SWE Intern, I can promise significant contributions to some exciting passions projects throughout this year! Also an avid track and field fan/competitor, with a long jump PR of 6.82m or 22ft5inches. I've competed in NCAA DI meets with MSU Track and Field and meets in Hong Kong with CUHK Track and Field.
     "linkedinId": "sean-ohare",
-    "roleDescription": "Computer Science student @ The Chinese University of Hong Kong, graduating May 2021.",
+    "roleDescription": "Computer Science student @ The Chinese University of Hong Kong. Graduating May 2021.",
     "socialLinks": [
         {
             "name": "linkedin",
@@ -73,39 +73,39 @@ let resumeData = {
         {
             "name": "DormLink",
             "description":
-                "Approximate-Nearest-Neighbor roommate matching and social networking app",
+                "",
             "url": "https://github.com/seanohare98/dormlink",
             "imgurl": "images/portfolio/dormlink.png"
         },
         {
             "name": "Track and Field Ranking System",
             "description":
-                "Application to aggregate and rank Hong Kong Track and Field results, providing athletes (like myself) with a tool to check on the progress of past/present competition seasons",
+                "",
             "url": "http://www.hktrackandfield.org",
             "imgurl": "images/portfolio/hktf.jpg"
         },
         {
             "name": "AR Beer Pong",
             "description":
-                "Socially distanced beer pong!",
+                "",
             "url": "https://github.com/seanohare98/ar-beer-pong",
             "imgurl": "images/portfolio/bp.png"
         },
         {
             "name": "File Transfer Protocol",
-            "description": "An FTP client/server program written for my Data Communications and Networking course",
+            "description": "",
             "url": "https://github.com/seanohare98/multithreaded-ftp-server",
             "imgurl": "images/portfolio/ftp.jpg"
         },
         {
             "name": "AVL Tree",
-            "description": "AVL data structure implementation",
+            "description": "",
             "url": "https://github.com/seanohare98/avl-tree",
             "imgurl": "images/portfolio/avl.jpg"
         },
         {
             "name": "Unix Shell",
-            "description": "Simplistic Unix Shell",
+            "description": "",
             "url": "https://github.com/seanohare98/unix-shell",
             "imgurl": "images/portfolio/shell.png"
         }
