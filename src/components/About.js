@@ -32,8 +32,14 @@ export default class About extends Component {
                                     <br></br>
                                     <span>{resumeData.website}</span>
                                 </p>
+
                             </div>
+
                         </div>
+                        <h2>Relevant Coursework</h2>
+                        <p>
+                            [Algorithm Design & Analysis, Formal Languages & Automata Theory, Operating Systems, Mobile Computing, Computer Game Dev, Programming Paradigms, Computer Graphics, Database Systems, Social Networks, Data Communication & Computer Networks, Cloud Computing & Storage]
+                        </p>
                     </div>
                 </div>
             </section>

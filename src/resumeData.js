@@ -30,13 +30,13 @@ let resumeData = {
             "name": "DormLink",
             "description":
                 "Roommate-matching social networking app",
-            "url": "https://github.com/seanohare98/dormlink",
+            "url": "https://github.com/seanohare98/dormlink-prod",
             "imgurl": "images/portfolio/dormlink.png"
         },
         {
             "name": "AR Beer Pong",
             "description":
-                "Have fun social distancing!",
+                "Social distancing fun :)",
             "url": "https://github.com/seanohare98/ar-beer-pong",
             "imgurl": "images/portfolio/bp.jpg"
         },
